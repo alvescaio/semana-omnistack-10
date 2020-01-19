@@ -1,0 +1,28 @@
+{
+  "name": "semana-omnistack-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvescaio/semana-omnistack-10.git"
+  },
+  "author": "Caio Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvescaio/semana-omnistack-10/issues"
+  },
+  "homepage": "https://github.com/alvescaio/semana-omnistack-10#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
